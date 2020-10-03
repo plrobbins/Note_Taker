@@ -1,2 +1,10 @@
 # Note_Taker
-Create an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
+
+## Description
+This application will be used to write, save, and delete notes. It will also use an express backend and save and retrieve note data from a JSON file.
+
+## Screenshot of App
+![Note Taker Screenshot]()
+
+## Deployed Link
+
